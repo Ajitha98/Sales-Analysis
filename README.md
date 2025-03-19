@@ -6,7 +6,7 @@ The dashboard provides a comprehensive analysis of sales, revenue, customer demo
 
 # Key Findings
 
-## 1. Sales & Revenue Performance
+### 1. Sales & Revenue Performance
 
 Total Sales Value: INR 1,156,108
 
@@ -16,7 +16,7 @@ Average Customer Spending: INR 3,520.98
 
 The business has experienced significant sales, with notable contributions from specific product categories and customer segments.
 
-## 2. Customer Demographics
+### 2. Customer Demographics
 
 Male Customers: Contributed INR 587,697 in sales.
 
@@ -24,7 +24,7 @@ Female Customers: Contributed INR 568,411 in sales.
 
 The distribution of sales between male and female customers is relatively balanced, indicating a diverse customer base.
 
-## 3. Product Category & Occasion-Based Sales
+### 3. Product Category & Occasion-Based Sales
 
 Popular product categories include Soft Toys, Plants, Colors, and Sweets.
 
@@ -32,13 +32,13 @@ Products are majorly purchased for occasions like Valentine’s Day, Diwali, and
 
 Colors and Cake products have generated high revenue, indicating strong consumer demand.
 
-## 4. Order & Delivery Insights
+### 4. Order & Delivery Insights
 
 Orders contain details such as Order ID, Customer ID, Product ID, Quantity, Order Date, Revenue, and Delivery Time.
 
 Customers place frequent orders around Valentine’s Day, suggesting an opportunity for targeted marketing campaigns during this period.
 
-# Key delivery locations include Rajkot, Danapur, Katni, Madurai, and Sambalpur.
+## Key delivery locations include Rajkot, Danapur, Katni, Madurai, and Sambalpur.
 
 The average delivery time ranges from 3 to 7 days.
 
