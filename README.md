@@ -40,33 +40,33 @@ Customers place frequent orders around Valentine’s Day, suggesting an opportun
 
 ## Key delivery locations include Rajkot, Danapur, Katni, Madurai, and Sambalpur.
 
-The average delivery time ranges from 3 to 7 days.
+* The average delivery time ranges from 3 to 7 days.
 
-Recommendations & Business Strategies
+* Recommendations & Business Strategies
 
-Enhance Marketing Efforts
+* Enhance Marketing Efforts
 
-Focus on targeted promotions for high-revenue products during peak occasions.
+* Focus on targeted promotions for high-revenue products during peak occasions.
 
-Leverage customer data to create personalized offers for frequent buyers.
+* Leverage customer data to create personalized offers for frequent buyers.
 
-Optimize Inventory Management
+* Optimize Inventory Management
 
-Maintain stock for high-demand products, especially around seasonal occasions.
+* Maintain stock for high-demand products, especially around seasonal occasions.
 
-Implement predictive analytics to anticipate future sales trends.
+* Implement predictive analytics to anticipate future sales trends.
 
-Improve Delivery Efficiency
+* Improve Delivery Efficiency
 
-Streamline logistics to reduce delivery time and enhance customer satisfaction.
+* Streamline logistics to reduce delivery time and enhance customer satisfaction.
 
-Offer premium delivery options for customers willing to pay for faster shipping.
+* Offer premium delivery options for customers willing to pay for faster shipping.
 
-Customer Engagement & Retention
+* Customer Engagement & Retention
 
-Introduce a loyalty program to reward repeat customers.
+* Introduce a loyalty program to reward repeat customers.
 
-Enhance customer service by offering seamless order tracking and better communication.
+* Enhance customer service by offering seamless order tracking and better communication.
 
 # Conclusion
 
